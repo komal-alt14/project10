@@ -272,3 +272,9 @@ Manages heart rate data for patients.
 
 ## Conclusion
 This documentation provides a comprehensive guide to setting up, running, and interacting with the Janitri Backend Assignment project. The APIs are designed to be intuitive and easy to use, with a focus on clean and maintainable code.
+
+## Contact Information
+For any questions or issues, feel free to reach out:
+- *Name*: Komal Bannikop
+- *Email*: komalvijaybannikoppa@gmail.com
+- *GitHub*: komal-alt14
